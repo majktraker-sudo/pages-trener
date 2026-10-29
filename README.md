@@ -2,4 +2,4 @@
 
 Навчальний сайт (практична робота №18, «Вебдизайн»).
 
-Сайт:(https://majktraker-sudo.github.io/pages-trener/)
+Сайт: (https://majktraker-sudo.github.io/pages-trener/)
